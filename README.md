@@ -1,2 +1,4 @@
 # Circum_calc
-This is a circumference calculator in cpp
+_This is a circumference calculator in cpp_
+__CPP is very difficult lenguaje but have very documentation__
+__I love it 💗__
